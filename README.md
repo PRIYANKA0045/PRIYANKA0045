@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka0045&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka0045" /> </p>
 
 - 🔭 I’m currently working on **AI&ML live projects.**
 
-- 🌱 I’m currently learning **online Udemy Platform courses.**
+- 🌱 I’m currently learning and working **at Reliance Jio Platfroms.**
 
 - 👯 I’m looking to collaborate on **tech based companies to gaining more real-life experiences.**
 
-- 🤝 I’m looking for help with **mentors.**
+- 🤝 I’m looking for help from **creative minds.**
 
 - 💬 Ask me about **Python, Java, OOPs**
 
