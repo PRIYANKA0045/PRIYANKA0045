@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **AI&ML live projects.**
 
-- 🌱 I’m currently learning and working **at Reliance Jio Platfroms.**
-
 - 👯 I’m looking to collaborate on **tech based companies to gaining more real-life experiences.**
 
 - 🤝 I’m looking for help from **creative minds.**
 
-- 💬 Ask me about **Python, Java, OOPs**
+- 💬 Ask me about **Python, AI&ML, OOPs**
 
 - 📫 How to reach me **prirajsharma004@gmail.com**
 
